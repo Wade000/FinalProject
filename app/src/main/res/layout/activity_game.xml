@@ -118,7 +118,7 @@
     <Button
         android:id="@+id/Funcbutton"
         android:layout_width="wrap_content"
-        android:layout_height="42dp"
+        android:layout_height="423dp"
         android:layout_alignBottom="@+id/timeTextView"
         android:layout_centerHorizontal="true"
         android:layout_marginBottom="-17dp"
